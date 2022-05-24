@@ -3,7 +3,7 @@
 </p>
 
 <h6 align='center'>
-<a href="https://vitesse-lite.netlify.app/">在线 Demo</a>
+<a href="https://vitesse-simplified.netlify.app/">在线 Demo</a>
 </h6>
 
 <h5 align='center'>
@@ -13,7 +13,7 @@
 <br>
 
 <p align='center'>
-<a href="https://github.com/antfu/vitesse-lite/blob/main/README.md">English</a> | <b>简体中文</b>
+<a href="https://github.com/enophan/vitesse-simplified/blob/main/README.md">English</a> | <b>简体中文</b>
 </p>
 
 <br>
